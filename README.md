@@ -709,19 +709,10 @@ SOFTWARE.
 
 ---
 
-## 📞 Support & Contact
-
-- **Email**: support@assetmanagement.com
-- **Documentation**: [Wiki](https://github.com/your-repo/wiki)
-- **Issues**: [GitHub Issues](https://github.com/your-repo/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-repo/discussions)
-
----
-
 <div align="center">
 
 **⭐ Jika proyek ini membantu, berikan star di GitHub! ⭐**
 
-Made with ❤️ by [Your Team Name]
+Made with ❤️ by Me
 
 </div>
